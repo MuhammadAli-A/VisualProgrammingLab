@@ -1,0 +1,46 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.3">
+  <diagram name="Page-1" id="c4acf3e9-155e-7222-9cf6-157b1a14988f">
+    <mxGraphModel dx="1366" dy="743" grid="1" gridSize="14" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5d2195bd80daf111-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;labelBackgroundColor=none;startFill=0;endArrow=open;endFill=0;endSize=10;fontFamily=Verdana;fontSize=10;" parent="1" target="5d2195bd80daf111-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="1029" />
+              <mxPoint x="410" y="1029" />
+            </Array>
+            <mxPoint x="380" y="1029" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5d2195bd80daf111-15" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b style=&quot;&quot;&gt;Cart&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ items: Link&amp;lt;Product&amp;gt;&lt;br&gt;-&amp;nbsp; allProducts :List&amp;lt;Product&amp;gt;&lt;br&gt;-&amp;nbsp; discout :decimal&lt;br&gt;-&amp;nbsp; salesTaxRate :decimal&lt;br&gt;-&amp;nbsp; createdAt :TimeSpan&lt;br&gt;-&amp;nbsp; expiryDuration : TimeSpan&lt;br&gt;+ input : string&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&amp;nbsp;+ Cart(List&amp;lt;Product&amp;gt;, TimeSpan)&amp;nbsp;&lt;br&gt;&amp;nbsp;+ IsExpired(): bool&amp;nbsp;&lt;br&gt;&amp;nbsp;+ ResetCartTimer(): void&amp;nbsp;&lt;br&gt;&amp;nbsp;+ GetRemainingTime(): TimeSpan&amp;nbsp;&lt;br&gt;&amp;nbsp;+ AddProduct(Product): void&amp;nbsp;&lt;br&gt;&amp;nbsp;+ RemoveProductByIndex(int): void&amp;nbsp;&lt;br&gt;&amp;nbsp;+ ProductRecommendation(): void&amp;nbsp;&lt;br&gt;&amp;nbsp;+ ViewCartWithIndices(): void&amp;nbsp;&lt;br&gt;&amp;nbsp;+ ItemsCount(): int&amp;nbsp;&lt;br&gt;&amp;nbsp;+ CalculateTotal(): decimal&amp;nbsp;&lt;br&gt;&amp;nbsp;+ Checkout(): void&amp;nbsp; &lt;br&gt;&amp;nbsp;+ ShowRecommendations (Product addedProduct)&lt;br&gt;&amp;nbsp;+ GetValidIndex(maxOption : int ,prompt : string) : Int&amp;nbsp;&amp;nbsp;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="812" y="112" width="336" height="434" as="geometry" />
+        </mxCell>
+        <mxCell id="5d2195bd80daf111-18" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b style=&quot;&quot;&gt;Product&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- Name: string&lt;br&gt;- Price: decimal&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- Category:string&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ Product(Name:string,Price:decimal,Category:string)&lt;br&gt;+ ToString(): string&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="154" y="112" width="364" height="168" as="geometry" />
+        </mxCell>
+        <mxCell id="5d2195bd80daf111-19" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b style=&quot;&quot;&gt;Program&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&amp;nbsp;+&amp;nbsp; Main(string[ ]): void&amp;nbsp;&lt;br&gt;&amp;nbsp;-&amp;nbsp; AddProduct(Cart): void&lt;br&gt;&amp;nbsp;-&amp;nbsp; ChooseFoodItems(Cart): void&amp;nbsp;&lt;br&gt;&amp;nbsp;-&amp;nbsp; ChooseElectronics(Cart): void&amp;nbsp;&lt;br&gt;&amp;nbsp;-&amp;nbsp; ChooseKitchenProducts(Cart): void&amp;nbsp;&lt;br&gt;&amp;nbsp;-&amp;nbsp; ChooseStationary(Cart): void&amp;nbsp;&lt;br&gt;&amp;nbsp;-&amp;nbsp; RemoveProduct(Cart): void&amp;nbsp;&lt;br&gt;&amp;nbsp;-&amp;nbsp; DisplayAndAddProduct(Cart, List&amp;lt;Product&amp;gt;): void&lt;br&gt;&amp;nbsp;-&amp;nbsp; GetValidQuantity(string): int&amp;nbsp;&lt;br&gt;&amp;nbsp;-&amp;nbsp; GetValidInput(string, string[]): string&amp;nbsp;&lt;br&gt;&amp;nbsp;-&amp;nbsp; GetValidIndex(int, string): int&amp;nbsp;&lt;br&gt;&amp;nbsp;-&amp;nbsp; PauseScreen(): void&amp;nbsp;&lt;br&gt;&amp;nbsp;-&amp;nbsp; Header(): void&amp;nbsp;&lt;br&gt;&amp;nbsp;-&amp;nbsp; DisplayWelcomeTitle(): void&amp;nbsp;&lt;br&gt;&amp;nbsp;-&amp;nbsp; ChooseMobilePhone(Cart): void&amp;nbsp;&lt;br&gt;&amp;nbsp;-&amp;nbsp; ChooseMobilePhoneAccessory(Cart): void&lt;br&gt;&amp;nbsp;-&amp;nbsp; ChooseChargingCablesAndAdapters(Cart): void&lt;br&gt;&amp;nbsp;-&amp;nbsp; DisplayWelcome(): void&amp;nbsp;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="294" y="336" width="336" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="862qrAab-U_QZ4QmBKrs-2" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmany;startArrow=ERmany;rounded=0;exitX=1.011;exitY=0.376;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.009;entryY=0.523;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5d2195bd80daf111-19" target="5d2195bd80daf111-15">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="658" y="436" as="sourcePoint" />
+            <mxPoint x="758" y="336" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="862qrAab-U_QZ4QmBKrs-3" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="5d2195bd80daf111-15" target="5d2195bd80daf111-18">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="574" y="280" as="sourcePoint" />
+            <mxPoint x="674" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="862qrAab-U_QZ4QmBKrs-4" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5d2195bd80daf111-18" target="5d2195bd80daf111-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="616" y="378" as="sourcePoint" />
+            <mxPoint x="776" y="378" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
