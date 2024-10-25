@@ -1,0 +1,7 @@
+C:\Users\Muhammad Ali\Downloads\Project0-ShoppingCart\bin\Debug\Project0-ShoppingCart.exe.config
+C:\Users\Muhammad Ali\Downloads\Project0-ShoppingCart\bin\Debug\Project0-ShoppingCart.exe
+C:\Users\Muhammad Ali\Downloads\Project0-ShoppingCart\bin\Debug\Project0-ShoppingCart.pdb
+C:\Users\Muhammad Ali\Downloads\Project0-ShoppingCart\obj\Debug\Project0-ShoppingCart.csproj.AssemblyReference.cache
+C:\Users\Muhammad Ali\Downloads\Project0-ShoppingCart\obj\Debug\Project0-ShoppingCart.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Ali\Downloads\Project0-ShoppingCart\obj\Debug\Project0-ShoppingCart.exe
+C:\Users\Muhammad Ali\Downloads\Project0-ShoppingCart\obj\Debug\Project0-ShoppingCart.pdb
