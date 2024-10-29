@@ -1,0 +1,15 @@
+C:\Users\233510\Desktop\MidPaper\MidPaper\bin\Debug\net6.0\MidPaper.exe
+C:\Users\233510\Desktop\MidPaper\MidPaper\bin\Debug\net6.0\MidPaper.deps.json
+C:\Users\233510\Desktop\MidPaper\MidPaper\bin\Debug\net6.0\MidPaper.runtimeconfig.json
+C:\Users\233510\Desktop\MidPaper\MidPaper\bin\Debug\net6.0\MidPaper.dll
+C:\Users\233510\Desktop\MidPaper\MidPaper\bin\Debug\net6.0\MidPaper.pdb
+C:\Users\233510\Desktop\MidPaper\MidPaper\obj\Debug\net6.0\MidPaper.csproj.AssemblyReference.cache
+C:\Users\233510\Desktop\MidPaper\MidPaper\obj\Debug\net6.0\MidPaper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\233510\Desktop\MidPaper\MidPaper\obj\Debug\net6.0\MidPaper.AssemblyInfoInputs.cache
+C:\Users\233510\Desktop\MidPaper\MidPaper\obj\Debug\net6.0\MidPaper.AssemblyInfo.cs
+C:\Users\233510\Desktop\MidPaper\MidPaper\obj\Debug\net6.0\MidPaper.csproj.CoreCompileInputs.cache
+C:\Users\233510\Desktop\MidPaper\MidPaper\obj\Debug\net6.0\MidPaper.dll
+C:\Users\233510\Desktop\MidPaper\MidPaper\obj\Debug\net6.0\refint\MidPaper.dll
+C:\Users\233510\Desktop\MidPaper\MidPaper\obj\Debug\net6.0\MidPaper.pdb
+C:\Users\233510\Desktop\MidPaper\MidPaper\obj\Debug\net6.0\MidPaper.genruntimeconfig.cache
+C:\Users\233510\Desktop\MidPaper\MidPaper\obj\Debug\net6.0\ref\MidPaper.dll
