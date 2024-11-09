@@ -1,0 +1,9 @@
+C:\Users\Muhammad Ali\Desktop\Lab Activities\Lab5\changereport\bin\Debug\changereport.dll
+C:\Users\Muhammad Ali\Desktop\Lab Activities\Lab5\changereport\bin\Debug\changereport.pdb
+C:\Users\Muhammad Ali\Desktop\Lab Activities\Lab5\changereport\bin\Debug\workitem.dll
+C:\Users\Muhammad Ali\Desktop\Lab Activities\Lab5\changereport\bin\Debug\workitem.pdb
+C:\Users\Muhammad Ali\Desktop\Lab Activities\Lab5\changereport\obj\Debug\changereport.csproj.AssemblyReference.cache
+C:\Users\Muhammad Ali\Desktop\Lab Activities\Lab5\changereport\obj\Debug\changereport.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Ali\Desktop\Lab Activities\Lab5\changereport\obj\Debug\changere.116B5B7A.Up2Date
+C:\Users\Muhammad Ali\Desktop\Lab Activities\Lab5\changereport\obj\Debug\changereport.dll
+C:\Users\Muhammad Ali\Desktop\Lab Activities\Lab5\changereport\obj\Debug\changereport.pdb

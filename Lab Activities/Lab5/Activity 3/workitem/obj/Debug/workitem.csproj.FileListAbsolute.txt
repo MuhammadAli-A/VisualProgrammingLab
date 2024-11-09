@@ -1,0 +1,6 @@
+C:\Users\Muhammad Ali\Desktop\Lab Activities\Lab5\workitem\bin\Debug\workitem.dll
+C:\Users\Muhammad Ali\Desktop\Lab Activities\Lab5\workitem\bin\Debug\workitem.pdb
+C:\Users\Muhammad Ali\Desktop\Lab Activities\Lab5\workitem\obj\Debug\workitem.csproj.AssemblyReference.cache
+C:\Users\Muhammad Ali\Desktop\Lab Activities\Lab5\workitem\obj\Debug\workitem.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Ali\Desktop\Lab Activities\Lab5\workitem\obj\Debug\workitem.dll
+C:\Users\Muhammad Ali\Desktop\Lab Activities\Lab5\workitem\obj\Debug\workitem.pdb
