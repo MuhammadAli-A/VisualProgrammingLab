@@ -1,0 +1,10 @@
+C:\Users\Muhammad Ali\source\repos\Task4\bin\Debug\Task4.exe.config
+C:\Users\Muhammad Ali\source\repos\Task4\bin\Debug\Task4.exe
+C:\Users\Muhammad Ali\source\repos\Task4\bin\Debug\Task4.pdb
+C:\Users\Muhammad Ali\source\repos\Task4\obj\Debug\Task4.csproj.AssemblyReference.cache
+C:\Users\Muhammad Ali\source\repos\Task4\obj\Debug\Task4.Form1.resources
+C:\Users\Muhammad Ali\source\repos\Task4\obj\Debug\Task4.Properties.Resources.resources
+C:\Users\Muhammad Ali\source\repos\Task4\obj\Debug\Task4.csproj.GenerateResource.cache
+C:\Users\Muhammad Ali\source\repos\Task4\obj\Debug\Task4.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Ali\source\repos\Task4\obj\Debug\Task4.exe
+C:\Users\Muhammad Ali\source\repos\Task4\obj\Debug\Task4.pdb
