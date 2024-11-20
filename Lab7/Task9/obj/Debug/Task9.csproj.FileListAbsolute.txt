@@ -1,0 +1,10 @@
+C:\Users\Muhammad Ali\source\repos\Task9\bin\Debug\Task9.exe.config
+C:\Users\Muhammad Ali\source\repos\Task9\bin\Debug\Task9.exe
+C:\Users\Muhammad Ali\source\repos\Task9\bin\Debug\Task9.pdb
+C:\Users\Muhammad Ali\source\repos\Task9\obj\Debug\Task9.csproj.AssemblyReference.cache
+C:\Users\Muhammad Ali\source\repos\Task9\obj\Debug\Task9.Form1.resources
+C:\Users\Muhammad Ali\source\repos\Task9\obj\Debug\Task9.Properties.Resources.resources
+C:\Users\Muhammad Ali\source\repos\Task9\obj\Debug\Task9.csproj.GenerateResource.cache
+C:\Users\Muhammad Ali\source\repos\Task9\obj\Debug\Task9.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Ali\source\repos\Task9\obj\Debug\Task9.exe
+C:\Users\Muhammad Ali\source\repos\Task9\obj\Debug\Task9.pdb
