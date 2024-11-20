@@ -1,0 +1,10 @@
+C:\Users\Muhammad Ali\source\repos\Task7\bin\Debug\Task7.exe.config
+C:\Users\Muhammad Ali\source\repos\Task7\bin\Debug\Task7.exe
+C:\Users\Muhammad Ali\source\repos\Task7\bin\Debug\Task7.pdb
+C:\Users\Muhammad Ali\source\repos\Task7\obj\Debug\Task7.csproj.AssemblyReference.cache
+C:\Users\Muhammad Ali\source\repos\Task7\obj\Debug\Task7.Form1.resources
+C:\Users\Muhammad Ali\source\repos\Task7\obj\Debug\Task7.Properties.Resources.resources
+C:\Users\Muhammad Ali\source\repos\Task7\obj\Debug\Task7.csproj.GenerateResource.cache
+C:\Users\Muhammad Ali\source\repos\Task7\obj\Debug\Task7.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Ali\source\repos\Task7\obj\Debug\Task7.exe
+C:\Users\Muhammad Ali\source\repos\Task7\obj\Debug\Task7.pdb
