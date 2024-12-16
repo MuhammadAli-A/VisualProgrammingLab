@@ -1,0 +1,15 @@
+D:\vplab2\CricketTeamManager\bin\Debug\CricketTeamManager.exe.config
+D:\vplab2\CricketTeamManager\bin\Debug\CricketTeamManager.exe
+D:\vplab2\CricketTeamManager\bin\Debug\CricketTeamManager.pdb
+D:\vplab2\CricketTeamManager\obj\Debug\CricketTeamManager.csproj.AssemblyReference.cache
+D:\vplab2\CricketTeamManager\obj\Debug\CricketTeamManager.csproj.SuggestedBindingRedirects.cache
+D:\vplab2\CricketTeamManager\obj\Debug\MainWindow.baml
+D:\vplab2\CricketTeamManager\obj\Debug\MainWindow.g.cs
+D:\vplab2\CricketTeamManager\obj\Debug\App.g.cs
+D:\vplab2\CricketTeamManager\obj\Debug\CricketTeamManager_MarkupCompile.cache
+D:\vplab2\CricketTeamManager\obj\Debug\CricketTeamManager.g.resources
+D:\vplab2\CricketTeamManager\obj\Debug\CricketTeamManager.Properties.Resources.resources
+D:\vplab2\CricketTeamManager\obj\Debug\CricketTeamManager.csproj.GenerateResource.cache
+D:\vplab2\CricketTeamManager\obj\Debug\CricketTeamManager.csproj.CoreCompileInputs.cache
+D:\vplab2\CricketTeamManager\obj\Debug\CricketTeamManager.exe
+D:\vplab2\CricketTeamManager\obj\Debug\CricketTeamManager.pdb
