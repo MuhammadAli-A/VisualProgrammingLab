@@ -1,0 +1,80 @@
+﻿<Window x:Class="VP_2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="Inventory Management System" Height="350" Width="550"
+        Background="#1E1E1E" WindowStartupLocation="CenterScreen" WindowStyle="None" AllowsTransparency="True">
+    <Window.Resources>
+        <DropShadowEffect x:Key="ShadowEffect" ShadowDepth="5" BlurRadius="15" Color="#FF000000" />
+        <LinearGradientBrush x:Key="BackgroundBrush" StartPoint="0,0" EndPoint="1,1">
+            <GradientStop Color="#282C34" Offset="0.0" />
+            <GradientStop Color="#3C4048" Offset="1.0" />
+        </LinearGradientBrush>
+        <SolidColorBrush x:Key="ButtonBackground" Color="#3A3F47" />
+        <SolidColorBrush x:Key="ButtonHover" Color="#50575E" />
+        <SolidColorBrush x:Key="TextColor" Color="#FFFFFF" />
+        <SolidColorBrush x:Key="BoxBackground" Color="#2F343A" />
+
+        <!-- Button Style -->
+        <Style x:Key="ButtonStyle" TargetType="Button">
+            <Setter Property="Background" Value="{StaticResource ButtonBackground}" />
+            <Setter Property="Foreground" Value="{StaticResource TextColor}" />
+            <Setter Property="Width" Value="220" />
+            <Setter Property="Height" Value="50" />
+            <Setter Property="FontFamily" Value="Segoe UI" />
+            <Setter Property="FontSize" Value="16" />
+            <Setter Property="FontWeight" Value="SemiBold" />
+            <Setter Property="BorderBrush" Value="Transparent" />
+            <Setter Property="BorderThickness" Value="0" />
+            <Setter Property="Cursor" Value="Hand" />
+            <Setter Property="Effect" Value="{StaticResource ShadowEffect}" />
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border Background="{TemplateBinding Background}" CornerRadius="25" Padding="10">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+            <Style.Triggers>
+                <Trigger Property="IsMouseOver" Value="True">
+                    <Setter Property="Background" Value="{StaticResource ButtonHover}" />
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+    </Window.Resources>
+
+    <Grid>
+        <!-- Main Container -->
+        <Border Background="{StaticResource BackgroundBrush}" CornerRadius="25" Padding="15" Effect="{StaticResource ShadowEffect}">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="*" />
+                </Grid.RowDefinitions>
+
+                <!-- Title Section -->
+                <TextBlock Text="Inventory Management System" FontSize="30" FontFamily="Segoe UI" FontWeight="Bold" 
+                           Foreground="{StaticResource TextColor}" HorizontalAlignment="Center" 
+                           Margin="0,20,0,10" Grid.Row="0" />
+
+                <!-- Options Section -->
+                <Border Background="{StaticResource BoxBackground}" CornerRadius="25" Padding="20" Grid.Row="1">
+                    <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,15,0,0">
+                        <!-- Login as Admin Button -->
+                        <Button Content="Login as Admin" Style="{StaticResource ButtonStyle}" Click="LoginAsAdmin_Click" />
+
+                        <!-- Login as User Button -->
+                        <Button Content="Login as User" Style="{StaticResource ButtonStyle}" Click="LoginAsUser_Click" />
+
+                        <!-- Close Button -->
+                        <Button Content="Close" Style="{StaticResource ButtonStyle}" Click="CloseButton_Click" />
+                    </StackPanel>
+                </Border>
+            </Grid>
+        </Border>
+    </Grid>
+</Window>

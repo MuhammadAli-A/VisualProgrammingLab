@@ -1,0 +1,141 @@
+﻿<Window x:Class="VP_2.PlaceOrderWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Place Order" Height="600" Width="800"
+        WindowStartupLocation="CenterScreen">
+
+    <Window.Resources>
+        <!-- Define the grey and white color palette -->
+        <SolidColorBrush x:Key="PrimaryColor" Color="#BDC3C7"/>
+        <SolidColorBrush x:Key="SecondaryColor" Color="#ECF0F1"/>
+        <SolidColorBrush x:Key="AccentColor" Color="#95A5A6"/>
+        <SolidColorBrush x:Key="TextColor" Color="#2C3E50"/>
+        <SolidColorBrush x:Key="BackgroundColor" Color="#F4F6F6"/>
+
+        <!-- Modern Button Style without CornerRadius -->
+        <Style x:Key="ButtonStyle" TargetType="Button">
+            <Setter Property="Background" Value="{StaticResource PrimaryColor}"/>
+            <Setter Property="Foreground" Value="{StaticResource TextColor}"/>
+            <Setter Property="Width" Value="150"/>
+            <Setter Property="Height" Value="50"/>
+            <Setter Property="Margin" Value="10"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="FontSize" Value="16"/>
+            <Setter Property="BorderBrush" Value="Transparent"/>
+            <Setter Property="Cursor" Value="Hand"/>
+            <Setter Property="HorizontalContentAlignment" Value="Center"/>
+            <Setter Property="VerticalContentAlignment" Value="Center"/>
+            <Setter Property="Padding" Value="12,5"/>
+            <Setter Property="Effect">
+                <Setter.Value>
+                    <DropShadowEffect Color="Black" BlurRadius="5" Direction="270" ShadowDepth="3"/>
+                </Setter.Value>
+            </Setter>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border Background="{TemplateBinding Background}"
+                                BorderBrush="{TemplateBinding BorderBrush}"
+                                BorderThickness="1"
+                                Padding="{TemplateBinding Padding}">
+                            <ContentPresenter HorizontalAlignment="Center"
+                                              VerticalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+            <Style.Triggers>
+                <Trigger Property="IsMouseOver" Value="True">
+                    <Setter Property="Background" Value="#95A5A6"/>
+                </Trigger>
+                <Trigger Property="IsPressed" Value="True">
+                    <Setter Property="Background" Value="#7F8C8D"/>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+
+        <!-- Window Style with subtle shadows -->
+        <Style TargetType="Window">
+            <Setter Property="Background" Value="{StaticResource BackgroundColor}"/>
+            <Setter Property="Effect">
+                <Setter.Value>
+                    <DropShadowEffect Color="Black" BlurRadius="15" Direction="270" ShadowDepth="15"/>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Window.Resources>
+
+    <Grid>
+        <!-- Grid Layout with glow effect -->
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <!-- Title Section with enhanced background -->
+        <Border Background="{StaticResource PrimaryColor}" Padding="20" HorizontalAlignment="Stretch">
+            <TextBlock Text="Place Your Order" Foreground="White" FontSize="36" FontWeight="Bold" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        </Border>
+
+        <!-- Main Content Section with subtle glowing effect -->
+        <Grid Grid.Row="1" Margin="20">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="199*"/>
+                <ColumnDefinition Width="181*"/>
+            </Grid.ColumnDefinitions>
+
+            <!-- Electronics List Section -->
+            <StackPanel Grid.Column="0" Margin="10,10,10,10">
+                <TextBlock Text="Electronics" FontSize="20" FontWeight="Bold" Margin="0,0,0,10" Foreground="{StaticResource TextColor}"/>
+                <ListView Name="ElectronicsListView" BorderBrush="{StaticResource AccentColor}" Height="200">
+                    <ListView.View>
+                        <GridView>
+                            <GridViewColumn Header="Product ID" DisplayMemberBinding="{Binding ProductId}" Width="80"/>
+                            <GridViewColumn Header="Product Name" DisplayMemberBinding="{Binding ProductName}" Width="150"/>
+                            <GridViewColumn Header="Quantity" DisplayMemberBinding="{Binding Quantity}" Width="60"/>
+                            <GridViewColumn Header="Price" DisplayMemberBinding="{Binding Price}" Width="80"/>
+                        </GridView>
+                    </ListView.View>
+                </ListView>
+            </StackPanel>
+
+            <!-- Furniture List Section -->
+            <StackPanel Grid.Column="1" Margin="10,10,10,10">
+                <TextBlock Text="Furniture" FontSize="20" FontWeight="Bold" Margin="0,0,0,10" Foreground="{StaticResource TextColor}"/>
+                <ListView Name="FurnitureListView" BorderBrush="{StaticResource AccentColor}" Height="200">
+                    <ListView.View>
+                        <GridView>
+                            <GridViewColumn Header="Product ID" DisplayMemberBinding="{Binding ProductId}" Width="80"/>
+                            <GridViewColumn Header="Product Name" DisplayMemberBinding="{Binding ProductName}" Width="150"/>
+                            <GridViewColumn Header="Quantity" DisplayMemberBinding="{Binding Quantity}" Width="60"/>
+                            <GridViewColumn Header="Price" DisplayMemberBinding="{Binding Price}" Width="80"/>
+                        </GridView>
+                    </ListView.View>
+                </ListView>
+            </StackPanel>
+        </Grid>
+
+        <!-- Order Form Section with email and address fields below the products section -->
+        <StackPanel Grid.Row="2" Margin="20">
+            <!-- Address Field aligned to the left -->
+            <StackPanel Orientation="Horizontal" Margin="0,5" HorizontalAlignment="Left">
+                <TextBlock Text="Address:" Width="100" VerticalAlignment="Center" Foreground="{StaticResource TextColor}"/>
+                <TextBox Name="AddressTextBox" Width="200"/>
+            </StackPanel>
+
+            <!-- Email Field aligned to the left -->
+            <StackPanel Orientation="Horizontal" Margin="0,5" HorizontalAlignment="Left">
+                <TextBlock Text="Email:" Width="100" VerticalAlignment="Center" Foreground="{StaticResource TextColor}"/>
+                <TextBox Name="EmailTextBox" Width="200"/>
+            </StackPanel>
+
+            <!-- Buttons Section: Submit, Cancel, and Exit buttons, right-aligned -->
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" Margin="0,20,0,0">
+                <Button x:Name="SubmitOrderButton" Content="Submit Order" Style="{StaticResource ButtonStyle}" Click="SubmitOrderButton_Click" Width="150"/>
+                <Button x:Name="CancelOrderButton" Content="Cancel Order" Style="{StaticResource ButtonStyle}" Click="CancelOrderButton_Click" Width="150" Margin="10,0,0,0"/>
+                <Button x:Name="ExitButton" Content="Exit" Style="{StaticResource ButtonStyle}" Click="ExitButton_Click" Width="150" Margin="10,0,0,0"/>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>
