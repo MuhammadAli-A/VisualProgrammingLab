@@ -1,0 +1,164 @@
+C:\Users\Abdul Wasay Sial\Desktop\VP 2\VP 2\obj\Debug\VP 2.csproj.AssemblyReference.cache
+C:\Users\Abdul Wasay Sial\Desktop\VP 2\VP 2\obj\Debug\MainWindow.g.cs
+C:\Users\Abdul Wasay Sial\Desktop\VP 2\VP 2\obj\Debug\App.g.cs
+C:\Users\Abdul Wasay Sial\Desktop\VP 2\VP 2\obj\Debug\VP 2_MarkupCompile.cache
+C:\Users\Abdul Wasay Sial\Desktop\VP 2\VP 2\obj\Debug\VP 2_MarkupCompile.lref
+C:\Users\Abdul Wasay Sial\Desktop\VP 2\VP 2\bin\Debug\VP 2.exe.config
+C:\Users\Abdul Wasay Sial\Desktop\VP 2\VP 2\bin\Debug\VP 2.exe
+C:\Users\Abdul Wasay Sial\Desktop\VP 2\VP 2\bin\Debug\VP 2.pdb
+C:\Users\Abdul Wasay Sial\Desktop\VP 2\VP 2\obj\Debug\MainWindow.baml
+C:\Users\Abdul Wasay Sial\Desktop\VP 2\VP 2\obj\Debug\VP 2.g.resources
+C:\Users\Abdul Wasay Sial\Desktop\VP 2\VP 2\obj\Debug\VP_2.Properties.Resources.resources
+C:\Users\Abdul Wasay Sial\Desktop\VP 2\VP 2\obj\Debug\VP 2.csproj.GenerateResource.cache
+C:\Users\Abdul Wasay Sial\Desktop\VP 2\VP 2\obj\Debug\VP 2.csproj.CoreCompileInputs.cache
+C:\Users\Abdul Wasay Sial\Desktop\VP 2\VP 2\obj\Debug\VP 2.exe
+C:\Users\Abdul Wasay Sial\Desktop\VP 2\VP 2\obj\Debug\VP 2.pdb
+C:\Users\Abdul Wasay Sial\Desktop\VP 2\VP 2\obj\Debug\Window1.g.cs
+C:\Users\Abdul Wasay Sial\Desktop\VP 2\VP 2\obj\Debug\Window1.baml
+C:\Users\Abdul Wasay Sial\Desktop\VP 2\VP 2\obj\Debug\ProductInputDialog.baml
+C:\Users\Abdul Wasay Sial\Desktop\VP 2\VP 2\obj\Debug\ProductInputDialog.g.cs
+C:\Users\Abdul Wasay Sial\Desktop\VP 2\VP 2\obj\Debug\Window2.g.cs
+C:\Users\Abdul Wasay Sial\Desktop\VP 2\VP 2\obj\Debug\Window2.baml
+C:\Users\Abdul Wasay Sial\Desktop\VP 2\VP 2\obj\Debug\Main menu.g.cs
+C:\Users\Abdul Wasay Sial\Desktop\VP 2\VP 2\obj\Debug\Main menu.baml
+C:\Users\Abdul Wasay Sial\Desktop\VP 2\VP 2\obj\Debug\Category Management.g.cs
+C:\Users\Abdul Wasay Sial\Desktop\VP 2\VP 2\obj\Debug\Category Management.baml
+C:\Users\Abdul Wasay Sial\Desktop\VP 2\VP 2\obj\Debug\Admin login.g.cs
+C:\Users\Abdul Wasay Sial\Desktop\VP 2\VP 2\obj\Debug\User login.g.cs
+C:\Users\Abdul Wasay Sial\Desktop\VP 2\VP 2\obj\Debug\Admin login.baml
+C:\Users\Abdul Wasay Sial\Desktop\VP 2\VP 2\obj\Debug\User login.baml
+C:\Users\Abdul Wasay Sial\Desktop\VP 2\VP 2\obj\Debug\Menu user.g.cs
+C:\Users\Abdul Wasay Sial\Desktop\VP 2\VP 2\obj\Debug\Menu user.baml
+C:\Users\Abdul Wasay Sial\Desktop\VP 2\VP 2\obj\Debug\UserListPage.baml
+C:\Users\Abdul Wasay Sial\Desktop\VP 2\VP 2\obj\Debug\UserListPage.g.cs
+C:\Users\Abdul Wasay Sial\Desktop\VP 2\VP 2\obj\Debug\PlaceOrderWindow.baml
+C:\Users\Abdul Wasay Sial\Desktop\VP 2\VP 2\obj\Debug\PlaceOrderWindow.g.cs
+C:\Users\Abdul Wasay Sial\Desktop\VP 2\VP 2\obj\Debug\Orders_Management.g.cs
+C:\Users\Abdul Wasay Sial\Desktop\VP 2\VP 2\obj\Debug\Orders_Management.baml
+C:\Users\Abdul Wasay Sial\Desktop\VP 2\VP 2\obj\Debug\AdminBuyProductsWindow.baml
+C:\Users\Abdul Wasay Sial\Desktop\VP 2\VP 2\obj\Debug\SupplierWindow.baml
+C:\Users\Abdul Wasay Sial\Desktop\VP 2\VP 2\obj\Debug\AdminBuyProductsWindow.g.cs
+C:\Users\Abdul Wasay Sial\Desktop\VP 2\VP 2\obj\Debug\SupplierWindow.g.cs
+C:\Users\Hassan\Pictures\vp_wasay_project\wasay-sial-project-01-Inventory-Management-system-ec33936\bin\Debug\VP 2.exe.config
+C:\Users\Hassan\Pictures\vp_wasay_project\wasay-sial-project-01-Inventory-Management-system-ec33936\bin\Debug\VP 2.exe
+C:\Users\Hassan\Pictures\vp_wasay_project\wasay-sial-project-01-Inventory-Management-system-ec33936\bin\Debug\VP 2.pdb
+C:\Users\Hassan\Pictures\vp_wasay_project\wasay-sial-project-01-Inventory-Management-system-ec33936\obj\Debug\VP 2.csproj.AssemblyReference.cache
+C:\Users\Hassan\Pictures\vp_wasay_project\wasay-sial-project-01-Inventory-Management-system-ec33936\obj\Debug\AdminBuyProductsWindow.baml
+C:\Users\Hassan\Pictures\vp_wasay_project\wasay-sial-project-01-Inventory-Management-system-ec33936\obj\Debug\MainWindow.baml
+C:\Users\Hassan\Pictures\vp_wasay_project\wasay-sial-project-01-Inventory-Management-system-ec33936\obj\Debug\PlaceOrderWindow.baml
+C:\Users\Hassan\Pictures\vp_wasay_project\wasay-sial-project-01-Inventory-Management-system-ec33936\obj\Debug\ProductInputDialog.baml
+C:\Users\Hassan\Pictures\vp_wasay_project\wasay-sial-project-01-Inventory-Management-system-ec33936\obj\Debug\SupplierWindow.baml
+C:\Users\Hassan\Pictures\vp_wasay_project\wasay-sial-project-01-Inventory-Management-system-ec33936\obj\Debug\UserListPage.baml
+C:\Users\Hassan\Pictures\vp_wasay_project\wasay-sial-project-01-Inventory-Management-system-ec33936\obj\Debug\Admin login.g.cs
+C:\Users\Hassan\Pictures\vp_wasay_project\wasay-sial-project-01-Inventory-Management-system-ec33936\obj\Debug\AdminBuyProductsWindow.g.cs
+C:\Users\Hassan\Pictures\vp_wasay_project\wasay-sial-project-01-Inventory-Management-system-ec33936\obj\Debug\Category Management.g.cs
+C:\Users\Hassan\Pictures\vp_wasay_project\wasay-sial-project-01-Inventory-Management-system-ec33936\obj\Debug\Main menu.g.cs
+C:\Users\Hassan\Pictures\vp_wasay_project\wasay-sial-project-01-Inventory-Management-system-ec33936\obj\Debug\MainWindow.g.cs
+C:\Users\Hassan\Pictures\vp_wasay_project\wasay-sial-project-01-Inventory-Management-system-ec33936\obj\Debug\Menu user.g.cs
+C:\Users\Hassan\Pictures\vp_wasay_project\wasay-sial-project-01-Inventory-Management-system-ec33936\obj\Debug\Orders_Management.g.cs
+C:\Users\Hassan\Pictures\vp_wasay_project\wasay-sial-project-01-Inventory-Management-system-ec33936\obj\Debug\PlaceOrderWindow.g.cs
+C:\Users\Hassan\Pictures\vp_wasay_project\wasay-sial-project-01-Inventory-Management-system-ec33936\obj\Debug\ProductInputDialog.g.cs
+C:\Users\Hassan\Pictures\vp_wasay_project\wasay-sial-project-01-Inventory-Management-system-ec33936\obj\Debug\SupplierWindow.g.cs
+C:\Users\Hassan\Pictures\vp_wasay_project\wasay-sial-project-01-Inventory-Management-system-ec33936\obj\Debug\User login.g.cs
+C:\Users\Hassan\Pictures\vp_wasay_project\wasay-sial-project-01-Inventory-Management-system-ec33936\obj\Debug\UserListPage.g.cs
+C:\Users\Hassan\Pictures\vp_wasay_project\wasay-sial-project-01-Inventory-Management-system-ec33936\obj\Debug\Window1.g.cs
+C:\Users\Hassan\Pictures\vp_wasay_project\wasay-sial-project-01-Inventory-Management-system-ec33936\obj\Debug\Window2.g.cs
+C:\Users\Hassan\Pictures\vp_wasay_project\wasay-sial-project-01-Inventory-Management-system-ec33936\obj\Debug\App.g.cs
+C:\Users\Hassan\Pictures\vp_wasay_project\wasay-sial-project-01-Inventory-Management-system-ec33936\obj\Debug\VP 2_MarkupCompile.cache
+C:\Users\Hassan\Pictures\vp_wasay_project\wasay-sial-project-01-Inventory-Management-system-ec33936\obj\Debug\VP 2_MarkupCompile.lref
+C:\Users\Hassan\Pictures\vp_wasay_project\wasay-sial-project-01-Inventory-Management-system-ec33936\obj\Debug\Admin login.baml
+C:\Users\Hassan\Pictures\vp_wasay_project\wasay-sial-project-01-Inventory-Management-system-ec33936\obj\Debug\Category Management.baml
+C:\Users\Hassan\Pictures\vp_wasay_project\wasay-sial-project-01-Inventory-Management-system-ec33936\obj\Debug\Main menu.baml
+C:\Users\Hassan\Pictures\vp_wasay_project\wasay-sial-project-01-Inventory-Management-system-ec33936\obj\Debug\Menu user.baml
+C:\Users\Hassan\Pictures\vp_wasay_project\wasay-sial-project-01-Inventory-Management-system-ec33936\obj\Debug\Orders_Management.baml
+C:\Users\Hassan\Pictures\vp_wasay_project\wasay-sial-project-01-Inventory-Management-system-ec33936\obj\Debug\User login.baml
+C:\Users\Hassan\Pictures\vp_wasay_project\wasay-sial-project-01-Inventory-Management-system-ec33936\obj\Debug\Window1.baml
+C:\Users\Hassan\Pictures\vp_wasay_project\wasay-sial-project-01-Inventory-Management-system-ec33936\obj\Debug\Window2.baml
+C:\Users\Hassan\Pictures\vp_wasay_project\wasay-sial-project-01-Inventory-Management-system-ec33936\obj\Debug\VP 2.g.resources
+C:\Users\Hassan\Pictures\vp_wasay_project\wasay-sial-project-01-Inventory-Management-system-ec33936\obj\Debug\VP_2.Properties.Resources.resources
+C:\Users\Hassan\Pictures\vp_wasay_project\wasay-sial-project-01-Inventory-Management-system-ec33936\obj\Debug\VP 2.csproj.GenerateResource.cache
+C:\Users\Hassan\Pictures\vp_wasay_project\wasay-sial-project-01-Inventory-Management-system-ec33936\obj\Debug\VP 2.csproj.CoreCompileInputs.cache
+C:\Users\Hassan\Pictures\vp_wasay_project\wasay-sial-project-01-Inventory-Management-system-ec33936\obj\Debug\VP 2.exe
+C:\Users\Hassan\Pictures\vp_wasay_project\wasay-sial-project-01-Inventory-Management-system-ec33936\obj\Debug\VP 2.pdb
+C:\Users\Hassan\Pictures\vp_y_project\yproject\obj\Debug\VP 2.csproj.AssemblyReference.cache
+C:\Users\Hassan\Pictures\vp_y_project\yproject\obj\Debug\Admin login.baml
+C:\Users\Hassan\Pictures\vp_y_project\yproject\obj\Debug\AdminBuyProductsWindow.baml
+C:\Users\Hassan\Pictures\vp_y_project\yproject\obj\Debug\Main menu.baml
+C:\Users\Hassan\Pictures\vp_y_project\yproject\obj\Debug\MainWindow.baml
+C:\Users\Hassan\Pictures\vp_y_project\yproject\obj\Debug\PlaceOrderWindow.baml
+C:\Users\Hassan\Pictures\vp_y_project\yproject\obj\Debug\ProductInputDialog.baml
+C:\Users\Hassan\Pictures\vp_y_project\yproject\obj\Debug\SupplierWindow.baml
+C:\Users\Hassan\Pictures\vp_y_project\yproject\obj\Debug\UserListPage.baml
+C:\Users\Hassan\Pictures\vp_y_project\yproject\obj\Debug\Admin login.g.cs
+C:\Users\Hassan\Pictures\vp_y_project\yproject\obj\Debug\AdminBuyProductsWindow.g.cs
+C:\Users\Hassan\Pictures\vp_y_project\yproject\obj\Debug\Category Management.g.cs
+C:\Users\Hassan\Pictures\vp_y_project\yproject\obj\Debug\Main menu.g.cs
+C:\Users\Hassan\Pictures\vp_y_project\yproject\obj\Debug\MainWindow.g.cs
+C:\Users\Hassan\Pictures\vp_y_project\yproject\obj\Debug\Menu user.g.cs
+C:\Users\Hassan\Pictures\vp_y_project\yproject\obj\Debug\Orders_Management.g.cs
+C:\Users\Hassan\Pictures\vp_y_project\yproject\obj\Debug\PlaceOrderWindow.g.cs
+C:\Users\Hassan\Pictures\vp_y_project\yproject\obj\Debug\ProductInputDialog.g.cs
+C:\Users\Hassan\Pictures\vp_y_project\yproject\obj\Debug\SupplierWindow.g.cs
+C:\Users\Hassan\Pictures\vp_y_project\yproject\obj\Debug\User login.g.cs
+C:\Users\Hassan\Pictures\vp_y_project\yproject\obj\Debug\UserListPage.g.cs
+C:\Users\Hassan\Pictures\vp_y_project\yproject\obj\Debug\Window1.g.cs
+C:\Users\Hassan\Pictures\vp_y_project\yproject\obj\Debug\Window2.g.cs
+C:\Users\Hassan\Pictures\vp_y_project\yproject\obj\Debug\App.g.cs
+C:\Users\Hassan\Pictures\vp_y_project\yproject\obj\Debug\VP 2_MarkupCompile.cache
+C:\Users\Hassan\Pictures\vp_y_project\yproject\obj\Debug\VP 2_MarkupCompile.lref
+C:\Users\Hassan\Pictures\vp_y_project\yproject\bin\Debug\VP 2.exe.config
+C:\Users\Hassan\Pictures\vp_y_project\yproject\bin\Debug\VP 2.exe
+C:\Users\Hassan\Pictures\vp_y_project\yproject\bin\Debug\VP 2.pdb
+C:\Users\Hassan\Pictures\vp_y_project\yproject\obj\Debug\Category Management.baml
+C:\Users\Hassan\Pictures\vp_y_project\yproject\obj\Debug\Menu user.baml
+C:\Users\Hassan\Pictures\vp_y_project\yproject\obj\Debug\Orders_Management.baml
+C:\Users\Hassan\Pictures\vp_y_project\yproject\obj\Debug\User login.baml
+C:\Users\Hassan\Pictures\vp_y_project\yproject\obj\Debug\Window1.baml
+C:\Users\Hassan\Pictures\vp_y_project\yproject\obj\Debug\Window2.baml
+C:\Users\Hassan\Pictures\vp_y_project\yproject\obj\Debug\VP 2.g.resources
+C:\Users\Hassan\Pictures\vp_y_project\yproject\obj\Debug\VP_2.Properties.Resources.resources
+C:\Users\Hassan\Pictures\vp_y_project\yproject\obj\Debug\VP 2.csproj.GenerateResource.cache
+C:\Users\Hassan\Pictures\vp_y_project\yproject\obj\Debug\VP 2.csproj.CoreCompileInputs.cache
+C:\Users\Hassan\Pictures\vp_y_project\yproject\obj\Debug\VP 2.exe
+C:\Users\Hassan\Pictures\vp_y_project\yproject\obj\Debug\VP 2.pdb
+C:\Users\Hassan\Pictures\vp_final_project\yproject\bin\Debug\VP 2.exe.config
+C:\Users\Hassan\Pictures\vp_final_project\yproject\bin\Debug\VP 2.exe
+C:\Users\Hassan\Pictures\vp_final_project\yproject\bin\Debug\VP 2.pdb
+C:\Users\Hassan\Pictures\vp_final_project\yproject\obj\Debug\VP 2.csproj.AssemblyReference.cache
+C:\Users\Hassan\Pictures\vp_final_project\yproject\obj\Debug\Admin login.baml
+C:\Users\Hassan\Pictures\vp_final_project\yproject\obj\Debug\AdminBuyProductsWindow.baml
+C:\Users\Hassan\Pictures\vp_final_project\yproject\obj\Debug\Main menu.baml
+C:\Users\Hassan\Pictures\vp_final_project\yproject\obj\Debug\MainWindow.baml
+C:\Users\Hassan\Pictures\vp_final_project\yproject\obj\Debug\PlaceOrderWindow.baml
+C:\Users\Hassan\Pictures\vp_final_project\yproject\obj\Debug\ProductInputDialog.baml
+C:\Users\Hassan\Pictures\vp_final_project\yproject\obj\Debug\SupplierWindow.baml
+C:\Users\Hassan\Pictures\vp_final_project\yproject\obj\Debug\UserListPage.baml
+C:\Users\Hassan\Pictures\vp_final_project\yproject\obj\Debug\Admin login.g.cs
+C:\Users\Hassan\Pictures\vp_final_project\yproject\obj\Debug\AdminBuyProductsWindow.g.cs
+C:\Users\Hassan\Pictures\vp_final_project\yproject\obj\Debug\Category Management.g.cs
+C:\Users\Hassan\Pictures\vp_final_project\yproject\obj\Debug\Main menu.g.cs
+C:\Users\Hassan\Pictures\vp_final_project\yproject\obj\Debug\MainWindow.g.cs
+C:\Users\Hassan\Pictures\vp_final_project\yproject\obj\Debug\Menu user.g.cs
+C:\Users\Hassan\Pictures\vp_final_project\yproject\obj\Debug\Orders_Management.g.cs
+C:\Users\Hassan\Pictures\vp_final_project\yproject\obj\Debug\PlaceOrderWindow.g.cs
+C:\Users\Hassan\Pictures\vp_final_project\yproject\obj\Debug\ProductInputDialog.g.cs
+C:\Users\Hassan\Pictures\vp_final_project\yproject\obj\Debug\SupplierWindow.g.cs
+C:\Users\Hassan\Pictures\vp_final_project\yproject\obj\Debug\User login.g.cs
+C:\Users\Hassan\Pictures\vp_final_project\yproject\obj\Debug\UserListPage.g.cs
+C:\Users\Hassan\Pictures\vp_final_project\yproject\obj\Debug\Window1.g.cs
+C:\Users\Hassan\Pictures\vp_final_project\yproject\obj\Debug\Window2.g.cs
+C:\Users\Hassan\Pictures\vp_final_project\yproject\obj\Debug\App.g.cs
+C:\Users\Hassan\Pictures\vp_final_project\yproject\obj\Debug\VP 2_MarkupCompile.cache
+C:\Users\Hassan\Pictures\vp_final_project\yproject\obj\Debug\VP 2_MarkupCompile.lref
+C:\Users\Hassan\Pictures\vp_final_project\yproject\obj\Debug\Category Management.baml
+C:\Users\Hassan\Pictures\vp_final_project\yproject\obj\Debug\Menu user.baml
+C:\Users\Hassan\Pictures\vp_final_project\yproject\obj\Debug\Orders_Management.baml
+C:\Users\Hassan\Pictures\vp_final_project\yproject\obj\Debug\User login.baml
+C:\Users\Hassan\Pictures\vp_final_project\yproject\obj\Debug\Window1.baml
+C:\Users\Hassan\Pictures\vp_final_project\yproject\obj\Debug\Window2.baml
+C:\Users\Hassan\Pictures\vp_final_project\yproject\obj\Debug\VP 2.g.resources
+C:\Users\Hassan\Pictures\vp_final_project\yproject\obj\Debug\VP_2.Properties.Resources.resources
+C:\Users\Hassan\Pictures\vp_final_project\yproject\obj\Debug\VP 2.csproj.GenerateResource.cache
+C:\Users\Hassan\Pictures\vp_final_project\yproject\obj\Debug\VP 2.csproj.CoreCompileInputs.cache
+C:\Users\Hassan\Pictures\vp_final_project\yproject\obj\Debug\VP 2.exe
+C:\Users\Hassan\Pictures\vp_final_project\yproject\obj\Debug\VP 2.pdb
