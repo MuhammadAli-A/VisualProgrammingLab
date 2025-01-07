@@ -1,0 +1,21 @@
+﻿@page "/questionlist"
+
+<h3>Question List</h3>
+
+<ul>
+    @foreach (var question in Questions)
+    {
+        <li>@question</li>
+    }
+</ul>
+
+@code {
+    // List of sample questions
+    private List<string> Questions = new List<string>
+    {
+        "What is your name?",
+        "Where do you live?",
+        "What is your favorite color?",
+        "What is your hobby?"
+    };
+}

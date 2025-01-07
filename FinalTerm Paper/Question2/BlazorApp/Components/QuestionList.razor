@@ -1,0 +1,43 @@
+﻿@page "/questionlist"
+
+<h3>Quiz Questions</h3>
+
+<div>
+    @foreach (var question in Questions)
+    {
+        <QuestionCard QuestionText="@question.QuestionText"
+                      Options="@question.Options"
+                      DifficultyLevel="@question.DifficultyLevel" />
+    }
+</div>
+
+@code {
+    private List<Question> Questions = new List<Question>
+    {
+        new Question
+        {
+            QuestionText = "What is the capital of France?",
+            Options = new List<string> { "Paris", "London", "Berlin", "Madrid" },
+            DifficultyLevel = "Easy"
+        },
+        new Question
+        {
+            QuestionText = "Which planet is known as the Red Planet?",
+            Options = new List<string> { "Mars", "Earth", "Jupiter", "Saturn" },
+            DifficultyLevel = "Medium"
+        },
+        new Question
+        {
+            QuestionText = "What is 2 + 2?",
+            Options = new List<string> { "3", "4", "5", "6" },
+            DifficultyLevel = "Easy"
+        }
+    };
+
+    public class Question
+    {
+        public string QuestionText { get; set; }
+        public List<string> Options { get; set; }
+        public string DifficultyLevel { get; set; }
+    }
+}
